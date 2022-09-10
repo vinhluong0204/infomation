@@ -1,0 +1,135 @@
+body{
+    
+    background-image: -webkit-linear-gradient(left,rgb(210, 228, 247) ,rgb(252, 229, 239));
+}
+
+.nen{
+   width: 200px;
+   height: 600px;
+   background-image:-webkit-linear-gradient(top,rgb(208, 112, 112),rgb(90, 90, 173))
+
+}
+@media(max-width:900px){
+.nen{
+    margin:auto;
+    width: 400px;
+    height: 600px;
+    background-color: white; 
+    border-radius: 20px;
+}
+.anh{
+    border: 1px solid #b1154a;
+    border-radius: 600px;
+    width: 150px;
+    height: 150px;
+    margin-left: 125px;
+    margin-right: 125px;
+    margin-top: 60px;
+}
+.link{
+    padding-top: 50px;
+    margin-left: 40px;
+}
+.zl {
+    text-decoration: none;
+    margin: 5px;
+}
+.fb {
+    text-decoration: none;
+    margin: 5px;
+}
+.yt{
+    text-decoration: none;
+    margin: 5px;
+}
+.ins{
+    text-decoration: none;
+    margin: 5px;
+}
+.tt{
+    text-decoration: none;
+    margin: 5px;
+}
+.ic{
+    width: 50px;
+    height: 50px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.ten{
+    display: block;
+    padding-top: 15px;
+    margin-left: 114px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #f0ec09;
+    font-size: 18px;   
+}
+.nut{
+    border-radius: 10px;
+    font-size: 20px;
+    margin-left: 115px;
+    margin-top: 20px;
+    background-image:-webkit-linear-gradient(top,rgb(227, 199, 199),rgb(103, 103, 210));
+}
+.an {
+    opacity: 0;
+    transition: 0.4s;
+    width: 0px;
+ }
+.can{
+    padding-top: 20px;
+    margin-left: 115px;
+}
+.ann {
+    opacity: 0;
+    transition: 0.4s;
+    width: 0px;
+}
+.hien{
+     margin-left: 20px;
+     opacity: 1;
+     width: 50px;
+     border-radius: 20px;
+}
+.sdt{
+    opacity: 0;
+    transition: 0.4s;
+    width: 0px;
+}
+.gma{
+    opacity: 0;
+    transition: 0.4s;
+    width: 0px;
+}
+.sdtt{
+    opacity: 1;
+    color: #ff0000; 
+    background-color: white;
+    width: 100px;
+    border-radius: 20px;
+    margin-left: 140px;
+}
+
+.dt{
+    
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 18px;
+}
+
+.gmaa{
+    opacity: 1;
+    color: #ff0000; 
+    background-color: white;
+    width: 270px;
+    border-radius: 20px;
+    margin-left: 60px;
+}
+.gm{
+    
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 18px;
+}
+
+}
